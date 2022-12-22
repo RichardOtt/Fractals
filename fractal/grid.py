@@ -14,7 +14,7 @@ class FractalGrid:
     niters: number of iterations used in generation, for tracking
     desc: description, include things like function used
     """
-    def __init__(self, name, escape, remain, shape, niters, desc):
+    def __init__(self, name, escape, remain, shape, niters, desc=""):
         self.name = name
         self.escape = escape
         self.remain = remain
