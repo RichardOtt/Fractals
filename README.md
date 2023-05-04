@@ -1,6 +1,6 @@
 # Fractals
 
-Formalizing and making reproducible the Fractal generating code I have been playing with.
+Formalizing and making reproducible the Fractal generating code I have been playing with. This is moving from the current system of Jupyter notebooks and pure functions to a more class-based and py file approach.
 
 This code takes the basic idea of the Mandelbrot set and allows for a greater range of functional forms.
 
