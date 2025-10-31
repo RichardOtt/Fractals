@@ -17,6 +17,3 @@ img = man_img_grid.plot(filename='man_zoom.png')
 ```
 
 The most important things that drive the process are the function (the `z**2` is for the Mandelbrot set), and the `niters` and `shape` drive the resolution and runtime.
-
-## Future work
-Eventually going to make a GUI to make this easier to explore.
